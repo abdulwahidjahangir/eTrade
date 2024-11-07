@@ -11,7 +11,7 @@ The **eTrade** backend API provides all necessary features for managing an e-com
   Secure user login with JWT tokens for safe and scalable authentication.
 
 - 🛒 **Product Management**:  
-  Full CRUD (Create, Read, Update, Delete) operations for products, including detailed information (product variants), pricing (based on variant), and availability (based on variant). A variant can consist of color and size.
+  Manage products with full CRUD (Create, Read, Update, Delete) capabilities, allowing for detailed information on each product, including its variants. Each variant can have unique attributes such as color, size, and pricing, with availability determined by the specific variant.
 
 - 🏷️ **Category Management**:  
   Product categories for easy organization of the catalog.
