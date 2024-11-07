@@ -1,4 +1,4 @@
-# eTrade Backend API Documentation
+# eTrade
 
 ## Overview
 
